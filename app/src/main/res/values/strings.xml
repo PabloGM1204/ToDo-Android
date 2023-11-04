@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="share_text">La tarea %1s y descripción %2s esta %3s</string>
+</resources>
